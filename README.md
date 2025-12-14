@@ -21,4 +21,4 @@ It demonstrates handling different form elements and validating successful submi
 ## ▶️ How to Run the Project
 1. Clone the repository
 2. Open the project in Eclipse
-3. Run OrangeHRMLoginTest.java as Java Application
+3. Run FormSubmissionTest.java as Java Application
